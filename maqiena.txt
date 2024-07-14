@@ -1,0 +1,1 @@
+1 cocacola 5000 2 pesi 4000 3 agua 2000 4 salida
